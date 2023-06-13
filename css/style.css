@@ -99,7 +99,7 @@ main {
 }
 
 .spider-card:hover .wrapper::after {
-  height: 40%;
+  height: 80%;
 }
 
 .title {
